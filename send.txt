@@ -1,0 +1,38 @@
+POST /ia/acct/login.phtml?_ga=11xxxxxxx683.15sdfdsfd70-24vvsv3sdsdf244576.152710 HTTP/1.1
+Content-Type: application/xml
+cache-control: no-cache
+Postman-Token: 222-5455-8sdfdsf470-e0d02dfdsfdsfb5
+User-Agent: PostmanRuntime/7.3.0
+Accept: */*
+Host: intacct.com
+cookie: __cfduid=dfsdkfjdslfjdslkfjbbb2385369
+Accept-Encoding: gzip, deflate
+Content-Length: 999
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8"?>
+<request>
+  <control>
+    <senderid>pokemon</senderid>
+    <password>master</password>
+    <controlid>sdfdsfdsfd</controlid>
+    <uniqueid>false</uniqueid>
+    <dtdversion>3.0</dtdversion>
+    <includewhitespace>false</includewhitespace>
+  </control>
+  <operation>
+    <authentication>
+      <sessionid>sd8hbjkkrkj6h67kgeor--..</sessionid>
+    </authentication>
+    <content>
+      <function controlid="jk56ng-dsrf4mk-bbbb-3kfek-sss">
+        <read>
+          <object>'</object>
+          <keys>1</keys>
+          <fields>*</fields>
+        </read>
+      </function>
+    </content>
+  </operation>
+</request>
+
